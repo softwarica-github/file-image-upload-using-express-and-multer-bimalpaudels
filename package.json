@@ -1,0 +1,24 @@
+{
+  "name": "webapiassignment",
+  "version": "1.0.0",
+  "description": "Uploading files using Multer and Express",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stw304cem/file-image-upload-using-express-and-multer-bimalpaudels.git"
+  },
+  "author": "Bimal Paudel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stw304cem/file-image-upload-using-express-and-multer-bimalpaudels/issues"
+  },
+  "homepage": "https://github.com/stw304cem/file-image-upload-using-express-and-multer-bimalpaudels#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
